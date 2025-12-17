@@ -1,0 +1,5 @@
+to activate the environment -> venv/Scripts/Activate
+to deactivate the environment -> rm -r test_venv
+to create a new env -> python -m venv langchainEnv
+to run 'requirements.txt' file -> pip install -r requirements.txt
+pip install pypdf

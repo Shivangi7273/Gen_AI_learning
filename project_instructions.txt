@@ -1,0 +1,12 @@
+Firstly create the environment (.env)
+
+Then create this file and run this file "template.py"
+**which ever files are not created will be created in the project structure by running 'template.py' file**
+
+Then run the command 'pip install setuptools'
+Create 'setup.py' file
+Create 'requirements.txt' file
+Run 'requirements.tct' file -> pip install -r requirements.txt
+Run 'setup.py' file -> python setup.py
+Write a code in 'helper.py' file
+Write the code in 'app.py' file
